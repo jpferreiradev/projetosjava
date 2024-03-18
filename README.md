@@ -1,0 +1,1 @@
+Esse repositorio é responsavel para estudos de projetos basicos pessoas de Java.
